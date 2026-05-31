@@ -1,0 +1,15 @@
+{
+  "lockfileVersion": 1,
+  "configVersion": 1,
+  "workspaces": {
+    "": {
+      "name": "dasha-api",
+      "dependencies": {
+        "@roxyapi/sdk": "^1.2.33",
+      },
+    },
+  },
+  "packages": {
+    "@roxyapi/sdk": ["@roxyapi/sdk@1.2.33", "", {}, "sha512-qL9aK4+Xol5/OXhAsy8FzqcoGRyAKhnB0rtkU7+061L+Ebg4RNdwcqO01PHQNmeS+OXfAWLtRObwg/OwXGqFYg=="],
+  }
+}

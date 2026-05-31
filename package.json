@@ -1,0 +1,15 @@
+{
+  "name": "dasha-api",
+  "version": "0.1.0",
+  "private": false,
+  "type": "module",
+  "description": "Vimshottari Dasha API. Current Mahadasha, Antardasha, Pratyantardasha plus 120 year timeline. Nakshatra balance at birth.",
+  "license": "MIT",
+  "dependencies": {
+    "@roxyapi/sdk": "^1.2.33"
+  },
+  "scripts": {
+    "ts": "bun example.ts",
+    "js": "node example.js"
+  }
+}
