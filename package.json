@@ -6,7 +6,7 @@
   "description": "Vimshottari Dasha API. Current Mahadasha, Antardasha, Pratyantardasha plus 120 year timeline. Nakshatra balance at birth.",
   "license": "MIT",
   "dependencies": {
-    "@roxyapi/sdk": "^1.2.33"
+    "@roxyapi/sdk": "^1.2.45"
   },
   "scripts": {
     "ts": "bun example.ts",
