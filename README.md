@@ -12,13 +12,13 @@
 
 ## What is Dasha API
 
-The Dasha API calculates the current Vimshottari Dasha periods (Mahadasha, Antardasha, Pratyantardasha) for any birth date, time, and location, with remaining time in each period. This dasha calculator API is built for life phase prediction and planetary period analysis. The 120 year dasha system is based on the Moon nakshatra at birth, so the response also returns the birth nakshatra and its lord. Use it to understand current planetary influences, dasha transitions, and timing of events in Vedic astrology. Roxy Ephemeris, verified against NASA JPL Horizons. 12+ spiritual domains in one subscription, Remote MCP server included.
+The Dasha API calculates the current Vimshottari Dasha periods (Mahadasha, Antardasha, Pratyantardasha) for any birth date, time, and location, with remaining time in each period. This dasha calculator API is built for life phase prediction and planetary period analysis. The 120 year dasha system is based on the Moon nakshatra at birth, so the response also returns the birth nakshatra and its lord. Use it to understand current planetary influences, dasha transitions, and timing of events in Vedic astrology. Roxy Ephemeris, verified against NASA JPL Horizons. 14+ spiritual domains in one subscription, Remote MCP server included.
 
 ## Why this API
 
 | Property | Value |
 |----------|-------|
-| Coverage | 12+ spiritual domains in one subscription |
+| Coverage | 14+ spiritual domains in one subscription |
 | Calculation | Roxy Ephemeris, verified against NASA JPL Horizons |
 | MCP server | `https://roxyapi.com/mcp/vedic-astrology` (Streamable HTTP, no local setup) |
 | SDKs | TypeScript on npm `@roxyapi/sdk`, Python on PyPI `roxy-sdk`, PHP on Packagist `roxyapi/sdk`, C# on NuGet `RoxyApi.Sdk`, Go `github.com/RoxyAPI/sdk-go`, WordPress plugin `roxyapi` |
